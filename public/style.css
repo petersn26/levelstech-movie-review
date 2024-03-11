@@ -1,0 +1,17 @@
+.grid_container{
+    background-color: rgb(250,250, 250);
+    margin: 10px;
+    height: 300px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto;
+}
+
+.grid_item{
+    text-align: center;
+    color: black;
+    width: 70px;
+    line-height: 40px;
+    margin: 10px;
+
+}
